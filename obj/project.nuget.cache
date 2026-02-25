@@ -1,8 +1,52 @@
 {
   "version": 2,
-  "dgSpecHash": "JZTHJ/G2szo=",
+  "dgSpecHash": "MXNeJr9jeiU=",
   "success": true,
   "projectFilePath": "D:\\C++ проекты\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\adraffy.ensnormalize\\0.3.1\\adraffy.ensnormalize.0.3.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.24\\microsoft.entityframeworkcore.8.0.24.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.24\\microsoft.entityframeworkcore.abstractions.8.0.24.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.24\\microsoft.entityframeworkcore.analyzers.8.0.24.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nbitcoin.secp256k1\\3.1.1\\nbitcoin.secp256k1.3.1.1.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.abi\\5.8.0\\nethereum.abi.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.accounts\\5.8.0\\nethereum.accounts.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.blockchainprocessing\\5.8.0\\nethereum.blockchainprocessing.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.contracts\\5.8.0\\nethereum.contracts.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.hex\\5.8.0\\nethereum.hex.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.jsonrpc.client\\5.8.0\\nethereum.jsonrpc.client.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.jsonrpc.rpcclient\\5.8.0\\nethereum.jsonrpc.rpcclient.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.keystore\\5.8.0\\nethereum.keystore.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.merkle.patricia\\5.8.0\\nethereum.merkle.patricia.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.model\\5.8.0\\nethereum.model.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.rlp\\5.8.0\\nethereum.rlp.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.rpc\\5.8.0\\nethereum.rpc.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.signer\\5.8.0\\nethereum.signer.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.signer.eip712\\5.8.0\\nethereum.signer.eip712.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.util\\5.8.0\\nethereum.util.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.util.rest\\5.8.0\\nethereum.util.rest.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\nethereum.web3\\5.8.0\\nethereum.web3.5.8.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"Newtonsoft.Json\" 11.0.2 есть известная уязвимость https://github.com/advisories/GHSA-5crp-9r3c-p9vr (уровень серьезности: высокий)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
